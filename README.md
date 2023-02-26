@@ -21,9 +21,9 @@ It's an API for a social network web application where users can post their thou
 
 ## Installation
 
-npm i
-npm i express
-npm i mongoose
+- npm i
+- npm i express
+- npm i mongoose
 
 
 ## Usage
@@ -35,7 +35,7 @@ npm start
 
 #### Walkthrough Video
 
-
+https://drive.google.com/file/d/1N_1RAPJ_zkOS2AE0ru0ZziDVCU5eYrKJ/view
 
 
 ## License
